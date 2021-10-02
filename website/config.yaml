@@ -31,9 +31,9 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Example name"
+  name: "Manthila Perera"
   namecolor: ffc107
-  profession: "Profession"
+  profession: "Student"
   github: "https://github.com"
   linkedin: "https://linkedin.com"
   twitter: "https://twitter.com/"
@@ -42,8 +42,8 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "Hi, I'm Manthila Perera, an undergraduate student of Biotechnology at the Sri Lanka Institute of Information Technology (SLIIT)."
+  descripe_l2_person: "You can find my resume [here](#projects)"
   skills:
     - name: CSS
       percentage: 90
